@@ -2,7 +2,7 @@
 
 Learn single page application with vue.js
 
-1. npm install npm
+1. npm install
 
 2. npm start
 
